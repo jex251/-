@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+.input-area {
+  margin-bottom: 15px;
+}
+
+#url {
+  width: 350px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 15px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+#player {
+  margin-top: 20px;
+}
